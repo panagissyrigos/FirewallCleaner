@@ -26,7 +26,7 @@ The script must be run under a windows local administrator account.
 
   To disable orphaned rules
   ```
-  .\fwcleanup.ps1 -report
+  .\fwcleanup.ps1 -disable
   ```
   
   To delete orphaned rules
