@@ -1,6 +1,6 @@
 # Windows rules firewall cleaner
 
-This script is provided as is, without any sort of warranty. You are fully responsible for what it may 
+This script is provided as is, without any sort of warranty. You are fully responsible for what may 
 happen on your machine(s) if you run it. 
 
 This script finds rules that point to executables or services that don't exist on the computer in the 
@@ -33,3 +33,4 @@ The script must be run under a windows local administrator account.
   ```
   .\fwcleanup.ps1 -delete
   ```
+
